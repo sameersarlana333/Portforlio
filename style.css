@@ -11,7 +11,7 @@ body{
 #header{
    width: 100%;
    height: 100vh;
-   background-image: url('https://github.com/sameersarlana333/Portforlio/blob/main/Untitled_design-removebg.png');
+   background-image: url('Untitled_design-removebg.png');
     background-repeat: no-repeat;
     background-position: right center; /* Aligns image to the right and center vertically */
     background-size: contain;
